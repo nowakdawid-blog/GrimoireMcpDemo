@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Grimoire/Grimoire.csproj" />
+  <Project Path="NoviceMage/NoviceMage.csproj" />
+</Solution>
